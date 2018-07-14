@@ -71,7 +71,7 @@ public class ShoppingActivity extends AppCompatActivity {
                 Log.i("productDetails::", productDetails);
                 tv_qr_readTxt.setText(productDetails);
 
-                seperator = "\n" + "_________________________________________________";
+                seperator = "\n" + "_____________________________________________________";
 
                 textSeperator.setText(seperator);
 

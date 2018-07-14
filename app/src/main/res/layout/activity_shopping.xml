@@ -53,7 +53,7 @@ tools:context=".ShoppingActivity">
         android:id="@+id/btnPay"
         android:layout_width="fill_parent"
         android:layout_height="50dp"
-        android:text="Pay Bill"
+        android:text="Checkout"
         android:textAllCaps="false"
         android:textSize="16sp" />
 
